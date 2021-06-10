@@ -1,0 +1,20 @@
+div.header{
+    
+        padding: 60px;
+        text-align: center;
+        background: #1abc9c;
+        color: black;
+        font-size: 30px;
+       font-family: Arial, Helvetica, sans-serif;
+
+}
+div.Card1{
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start
+    }
+    div.Card3{
+        display: flex;
+        flex-direction: row;
+        align-items: flex-start
+        }
