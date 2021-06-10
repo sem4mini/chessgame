@@ -1,0 +1,12 @@
+div.maindiv{
+    background-color:purple;
+}
+div.cool{
+    margin: auto;
+    width: 50%;
+    border: 30px solid green;
+    padding: 10px;
+}
+h1.prime{
+    padding-top: 50px;
+}
