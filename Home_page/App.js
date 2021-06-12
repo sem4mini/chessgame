@@ -76,7 +76,7 @@ const App=()=>{
     <Carousel.Caption>
       <h3>Games</h3>
       <p>Includes all type of  arcade games.</p>
-      <a href="https://www.chess.com/" class="btn btn-primary">Play Now Now</a>
+      <a href="index.js" class="btn btn-primary">Play Now Now</a>
       
     </Carousel.Caption>
   </Carousel.Item>
